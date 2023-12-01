@@ -21,11 +21,17 @@
 
 这是一些订阅，一次复制一行，添加到影迷就能用了。(影视仓同,推荐第一个)
 
-```http://yydsys.top/duo```
+~~~~
+~~http://yydsys.top/duo~~
+~~~~
 
-```https://download.kstore.space/download/3010/xm.json```
+~~~~
+https://download.kstore.space/download/3010/xm.json
+~~~~
 
-```https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json```
+~~~~
+https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json
+~~~~
 
 </details>
 
