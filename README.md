@@ -9,7 +9,9 @@
 
 [猫影视apk_内置源](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/catbox_1.1.0_fix1_.apk)
 
-[tvbox/影视仓_5.0.13.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_5.0.13.apk)   横屏
+[tvbox/影视仓5.0.10_1.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_5.0.13.apk)   横屏(旧版,支持IDM下载)
+
+[tvbox/影视仓_5.0.14.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_5.0.13.apk)   横屏
 
 [影迷_无订阅_2.3.5.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_._2.3.5.apk)   竖屏手机版
     <details>
