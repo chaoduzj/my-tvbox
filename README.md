@@ -37,7 +37,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/m
 
 gaotianliuyun维护的接口
 [原](https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
-[加速1](**https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip**)
+[加速1](https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
 [加速2](https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
 [加速3](https://gh.api.99988866.xyz/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
 </details>
