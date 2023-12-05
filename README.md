@@ -13,7 +13,7 @@
 
 [tvbox/影视仓_5.0.14.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/chaoduzj/my-tvbox/main/tvbox%E6%89%8B%E6%9C%BA%E7%89%88/%E5%BD%B1%E8%A7%86%E4%BB%93TV%E7%89%88_5.0.14%20.apk)   横屏
 
-[影迷_无订阅_2.3.5.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_._2.3.5.apk)   竖屏手机版
+[影迷_无订阅_2.3.5.apk](https://mirror.ghproxy.com/https://github.com/chaoduzj/my-tvbox/releases/download/tvbox/_._2.3.5.apk)   竖屏(支持IDM下载)
     <details>
     <summary><code><strong>「影迷_无订阅说明」</strong></code></summary>
 
