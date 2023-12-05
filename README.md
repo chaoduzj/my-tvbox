@@ -23,6 +23,17 @@
 
 这是一些订阅，一次复制一行，添加到影迷就能用了。(影视仓同,推荐第一个)
 
+gaotianliuyun维护的接口(本地接口)
+~~~~
+[原](https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+
+[加速1](https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+
+[加速2](https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+
+[加速3](https://gh.api.99988866.xyz/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+~~~~
+</details>
 
 
 （1）多多：
@@ -128,15 +139,4 @@ https://download.kstore.space/download/3010/xm.json
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json
 ~~~~
 
-gaotianliuyun维护的接口
-
-[原](https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
-
-[加速1](https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
-
-[加速2](https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
-
-[加速3](https://gh.api.99988866.xyz/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
-
-</details>
 
