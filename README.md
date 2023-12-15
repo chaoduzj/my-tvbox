@@ -23,15 +23,28 @@
 
 这是一些订阅，一次复制一行，添加到影迷就能用了。(影视仓同,推荐第一个)
 
-gaotianliuyun维护的接口(本地接口)
+[gaotianliuyun](https://github.com/gaotianliuyun/gao)维护的本地接口
+
+原
 ~~~~
-[原](https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip
+~~~~
 
-[加速1](https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+加速1
 
-[加速2](https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+~~~~
+https://gh.ddlc.top/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip
+~~~~
 
-[加速3](https://gh.api.99988866.xyz/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip)
+加速2
+~~~~
+https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip
+~~~~
+
+
+加速3
+~~~~
+https://gh.api.99988866.xyz/https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip
 ~~~~
 </details>
 
@@ -45,7 +58,7 @@ gaotianliuyun维护的接口(本地接口)
 （2）Fongmi：
 
 ~~~
-https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 ~~~
 
 （3）俊于：
@@ -63,7 +76,7 @@ http://饭太硬.top/tv
 （5）霜辉月明py：
 
 ~~~
-https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 ~~~
 
 （6）菜妮丝：
@@ -98,7 +111,7 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 （11）Ray：
 
 ~~~
-https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 ~~~
 
 （12）月光宝盒：
@@ -137,6 +150,66 @@ https://download.kstore.space/download/3010/xm.json
 
 ~~~~
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json
+~~~~
+
+多仓1：
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/shangyunvip.json
+~~~~
+饭太硬
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/fty.json
+~~~~
+荷城茶秀
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/hccx.json
+~~~~
+菜妮丝
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/cainisi.json
+~~~~
+
+运输车
+~~~~
+https://weixine.net/ysc.json
+~~~~
+ABC
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/abc/abc.json
+~~~~
+
+dxawi0
+~~~~
+https://gitee.com/shangyunvip/shangyunvipdc/raw/master/dxawi0/dxawi0.json
+~~~~
+多仓2：
+~~~~
+https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json
+~~~~
+
+鸟叔通用线
+~~~~~
+https://gitee.com/shangyunvip/yingshicang/raw/master/niao/Tongyong.json
+~~~~~
+鸟叔V3线
+~~~~
+https://gitee.com/shangyunvip/yingshicang/raw/master/niao/V3.json
+~~~~
+香雅情
+~~~~
+https://gitee.com/shangyunvip/yingshicang/raw/master/XYQTVBox/XYQTVBox.json
+~~~~
+CK
+~~~~
+https://codeberg.org/looktv/my/raw/branch/main/ck.json
+~~~~
+4K
+~~~~
+https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json
+~~~~
+996影视
+~~~~
+https://123.155123.xyz/996.json
 ~~~~
 
 
