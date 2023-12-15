@@ -182,10 +182,6 @@ dxawi0
 ~~~~
 https://gitee.com/shangyunvip/shangyunvipdc/raw/master/dxawi0/dxawi0.json
 ~~~~
-多仓2：
-~~~~
-https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json
-~~~~
 
 鸟叔通用线
 ~~~~~
